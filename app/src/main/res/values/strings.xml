@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IF-1 10119033</string>
+    <string name="home">Home</string>
+    <string name="note">Note</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="save">Save</string>
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="detail_note">Detail Note</string>
+    <string name="NIM">10119033</string>
+    <string name="name">Dandi Ahmadin</string>
+    <string name="classes">IF-1</string>
+    <string name="email">ahmadin.dandi14@gmail.com</string>
+    <string name="my_notes">My Notes</string>
+    <string name="first_viewpager">You can add new notes!</string>
+    <string name="secondary_viewpager">You can edit note.</string>
+    <string name="third_viewpager">You can delete note.</string>
+</resources>
